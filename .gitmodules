@@ -1,0 +1,6 @@
+[submodule "backend/frontend"]
+	path = backend/frontend
+	url = https://github.com/OpenClassrooms-Student-Center/fullstack-activity.git
+[submodule "fullstack-activity"]
+	path = fullstack-activity
+	url = https://github.com/OpenClassrooms-Student-Center/fullstack-activity.git
